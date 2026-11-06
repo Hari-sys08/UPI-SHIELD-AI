@@ -1,0 +1,7 @@
+UPI SHIELD AI — Android starter
+
+1. Read README.md.
+2. Preview: pip install kivy && python main.py
+3. Build APK on Ubuntu/WSL2: buildozer android debug
+
+The APK output will be in bin/ after a successful Buildozer build.
